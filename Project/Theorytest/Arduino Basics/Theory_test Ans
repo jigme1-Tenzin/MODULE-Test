@@ -1,0 +1,19 @@
+#Aurduino Basic
+Microcontroler is the primary circuit which allows us to program the Arduino in order for it to be able to execute commands. Digital Input/output pins, USB Interface and Connector, Analog Pins, Reset Button, LED's, and Voltage Regulator. 
+loop allows us to run the code repeatedly where as the setup function allows us to set up the input and output pin.
+An analog signal can take on any number of values. A digital signal on the other hand, has only two values: HIGH and LOW. 
+
+#Electronic Component.
+A resistor is an electrical component that limits or regulates the flow of electrical current in an electronic circuit.
+The purpose of jumper wire is to connect two points in a circuit without soldering.Ex;connection of servo motor
+LEDs allow the current to flow in the forward direction and blocks the current in the reverse direction where as regular diode allows current to flow in different direction.
+
+#programing
+A loop in is a function which allows the code excute again and again.Ex-void loop() {for (int angle = 0; angle <= 180; angle++) {servoMotor.write(angle); 
+Functions are blocks of reusable code that usually perform a single action. 
+
+#terminal usage
+The command we use to list all files and directories in current directory is 'ls'.
+The purpose of cd command in terminal is to change the directory.
+The differences between ll and ls is that ls shows all the files and directory and ll shows all the hidden file and directory.
+Done.
